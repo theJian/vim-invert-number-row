@@ -16,12 +16,12 @@ It only applies to insert mode by default. You can enable it for different mode 
 let g:invertmode = 'ic'
 ```
 
-`'n'`: Normal mode \n
-`'v'`: Visual mode
-`'x'`: Visual mode
-`'s'`: Select mode
-`'o'`: Operator-pending mode
-`'i'`: Insert mode
-`'l'`: Language mode
-`'c'`: Command line mode
-`'t'`: Terminal mode
+`'n'`: Normal mode<br>
+`'v'`: Visual mode<br>
+`'x'`: Visual mode<br>
+`'s'`: Select mode<br>
+`'o'`: Operator-pending mode<br>
+`'i'`: Insert mode<br>
+`'l'`: Language mode<br>
+`'c'`: Command line mode<br>
+`'t'`: Terminal mode<br>
